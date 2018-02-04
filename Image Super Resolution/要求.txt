@@ -1,0 +1,6 @@
+学习CS231n后，阅读以下三篇与Super Resolution相关的论文（按顺序）：
+Image Super-Resolution Using Deep Convolutional Networks
+Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution
+Accurate Image Super-Resolution Using Very Deep Convolutional Networks
+请自行上网查找论文全文以及作者开源的代码，阅读论文后在自己的电脑上跑通代码，并撰写一篇总结，中英文及长度不限。
+请在报告中重点评估方法的优缺点和运行速度。

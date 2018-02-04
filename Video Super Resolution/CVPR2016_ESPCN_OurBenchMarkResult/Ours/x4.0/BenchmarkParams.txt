@@ -1,0 +1,5 @@
+padMode: reflect
+rescaleFactor: 4.0
+optimisedLowResEncodings: False
+upscalerImpl: cuda
+cropResultsBy: 4
