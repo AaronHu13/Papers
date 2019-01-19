@@ -1,6 +1,0 @@
-optimisedLowResEncodings: False
-padMode: reflect
-
-upscalerImpl: cuda
-cropResultsBy: 3
-rescaleFactor: 3.0
